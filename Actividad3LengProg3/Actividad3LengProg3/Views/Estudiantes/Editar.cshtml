@@ -1,0 +1,69 @@
+﻿@model Actividad3LengProg3.Models.EstudianteViewModel
+
+<h2>Editar Estudiante</h2>
+
+@using (Html.BeginForm("Editar", "Estudiantes", FormMethod.Post))
+{
+    @Html.ValidationSummary(true)
+
+    @Html.HiddenFor(x => x.Matricula)
+
+    <p>
+        @Html.LabelFor(x => x.NombreCompleto)
+        @Html.TextBoxFor(x => x.NombreCompleto, new { @class = "form-control" })
+    </p>
+
+    <p>
+        @Html.LabelFor(x => x.Carrera)
+        @Html.TextBoxFor(x => x.Carrera, new { @class = "form-control" })
+    </p>
+
+    <p>
+        @Html.LabelFor(x => x.CorreoInstitucional)
+        @Html.TextBoxFor(x => x.CorreoInstitucional, new { @class = "form-control" })
+    </p>
+
+    <p>
+        @Html.LabelFor(x => x.Telefono)
+        @Html.TextBoxFor(x => x.Telefono, new { @class = "form-control" })
+    </p>
+
+    <p>
+        @Html.LabelFor(x => x.FechaNacimiento)
+        @Html.TextBoxFor(x => x.FechaNacimiento, "{0:yyyy-MM-dd}", new { type = "date", @class = "form-control" })
+    </p>
+
+    <p>
+        Género:
+        @Html.RadioButtonFor(x => x.Genero, "Masculino") Masculino
+        @Html.RadioButtonFor(x => x.Genero, "Femenino") Femenino
+    </p>
+
+    <p>
+        Turno:
+        @Html.DropDownListFor(x => x.Turno, new SelectList(new[] { "Mañana", "Tarde", "Noche" }), "-- Seleccionar --", new { @class = "form-control" })
+    </p>
+
+    <p>
+        @Html.LabelFor(x => x.TipoIngreso)
+        @Html.TextBoxFor(x => x.TipoIngreso, new { @class = "form-control" })
+    </p>
+
+    <p>
+        @Html.CheckBoxFor(x => x.EstaBecado) ¿Está becado?
+    </p>
+
+    <p>
+        @Html.LabelFor(x => x.PorcentajeBeca)
+        @Html.TextBoxFor(x => x.PorcentajeBeca, new { @class = "form-control" })
+    </p>
+
+    <p>
+        @Html.CheckBoxFor(x => x.TerminosYCondiciones) Acepta términos y condiciones
+    </p>
+
+    <input type="submit" value="Guardar Cambios" class="btn btn-primary" />
+}
+
+<br />
+<a href="@Url.Action("Lista", "Estudiantes")">Volver a la lista</a>

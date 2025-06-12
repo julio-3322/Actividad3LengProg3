@@ -1,0 +1,37 @@
+﻿@model List<Actividad3LengProg3.Models.EstudianteViewModel>
+
+<h2>Lista de Estudiantes</h2>
+
+<table style="width: 100%; border-collapse: collapse;">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Matrícula</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var estudiante in Model)
+        {
+            <tr>
+                <td>
+                    <form method="get" action="@Url.Action("Detalle", "Estudiantes")" style="margin:0;">
+                        <input type="hidden" name="matricula" value="@estudiante.Matricula" />
+                        <button type="submit" style="background:none;border:none;color:black;text-decoration:none;cursor:pointer;font-size:inherit;">
+                            @estudiante.NombreCompleto
+                        </button>
+                    </form>
+                </td>
+
+                <td>@estudiante.Matricula</td>
+                <td>
+                    @Html.ActionLink("Editar", "Editar", new { matricula = estudiante.Matricula }) |
+                    @Html.ActionLink("Eliminar", "Eliminar", new { matricula = estudiante.Matricula })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<br />
+<a href="@Url.Action("Index", "Estudiantes")">Registrar otro estudiante</a>

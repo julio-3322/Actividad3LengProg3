@@ -1,0 +1,81 @@
+﻿@model Actividad3LengProg3.Models.EstudianteViewModel
+
+<h2>Registrar Estudiante</h2>
+
+@using (Html.BeginForm("Registrar", "Estudiantes", FormMethod.Post))
+{
+    @Html.ValidationSummary(true)
+
+    <div>
+        @Html.LabelFor(x => x.NombreCompleto)
+        <br />
+        @Html.TextBoxFor(x => x.NombreCompleto)
+    </div>
+
+    <div>
+        @Html.LabelFor(x => x.Matricula)
+        <br />
+        @Html.TextBoxFor(x => x.Matricula)
+    </div>
+
+    <div>
+        @Html.LabelFor(x => x.Carrera)
+        <br />
+        @Html.TextBoxFor(x => x.Carrera)
+    </div>
+
+    <div>
+        @Html.LabelFor(x => x.CorreoInstitucional)
+        <br />
+        @Html.TextBoxFor(x => x.CorreoInstitucional)
+    </div>
+
+    <div>
+        @Html.LabelFor(x => x.Telefono)
+        <br />
+        @Html.TextBoxFor(x => x.Telefono)
+    </div>
+
+    <div>
+        @Html.LabelFor(x => x.FechaNacimiento)
+        <br />
+        @Html.TextBoxFor(x => x.FechaNacimiento, "{0:yyyy-MM-dd}", new { type = "date" })
+    </div>
+
+    <div>
+        <label>Género</label><br />
+        @Html.RadioButtonFor(x => x.Genero, "Masculino") Masculino
+        @Html.RadioButtonFor(x => x.Genero, "Femenino") Femenino
+    </div>
+
+    <div>
+        @Html.LabelFor(x => x.Turno)
+        <br />
+        @Html.DropDownListFor(x => x.Turno, new SelectList(new[] { "Mañana", "Tarde", "Noche" }))
+    </div>
+
+    <div>
+        @Html.LabelFor(x => x.TipoIngreso)
+        <br />
+        @Html.TextBoxFor(x => x.TipoIngreso)
+    </div>
+
+    <div>
+        @Html.CheckBoxFor(x => x.EstaBecado)
+        @Html.Label("¿Está becado?")
+    </div>
+
+    <div>
+        @Html.LabelFor(x => x.PorcentajeBeca)
+        <br />
+        @Html.TextBoxFor(x => x.PorcentajeBeca)
+    </div>
+
+    <div>
+        @Html.CheckBoxFor(x => x.TerminosYCondiciones)
+        @Html.Label("Acepto los términos")
+    </div>
+
+    <br />
+    <input type="submit" value="Registrar" />
+}
