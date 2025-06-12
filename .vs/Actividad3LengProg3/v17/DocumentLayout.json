@@ -1,30 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Yiandra\\source\\repos\\Actividad3LengProg3\\",
+  "WorkspaceRootPath": "C:\\Users\\Yiandra\\Desktop\\Actividad3LengProg3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82FA688F-8565-4D5C-B0FA-18F2DF2F447B}|Actividad3LengProg3\\Actividad3LengProg3.csproj|c:\\users\\yiandra\\source\\repos\\actividad3lengprog3\\actividad3lengprog3\\models\\estudianteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82FA688F-8565-4D5C-B0FA-18F2DF2F447B}|Actividad3LengProg3\\Actividad3LengProg3.csproj|solutionrelative:actividad3lengprog3\\models\\estudianteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yiandra\\source\\repos\\Actividad3LengProg3\\Actividad3LengProg3\\Controllers\\EstudiantesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82FA688F-8565-4D5C-B0FA-18F2DF2F447B}|Actividad3LengProg3\\Actividad3LengProg3.csproj|c:\\users\\yiandra\\source\\repos\\actividad3lengprog3\\actividad3lengprog3\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82FA688F-8565-4D5C-B0FA-18F2DF2F447B}|Actividad3LengProg3\\Actividad3LengProg3.csproj|solutionrelative:actividad3lengprog3\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yiandra\\source\\repos\\Actividad3LengProg3\\Actividad3LengProg3\\Views\\Estudiantes\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82FA688F-8565-4D5C-B0FA-18F2DF2F447B}|Actividad3LengProg3\\Actividad3LengProg3.csproj|c:\\users\\yiandra\\source\\repos\\actividad3lengprog3\\actividad3lengprog3\\views\\estudiantes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{82FA688F-8565-4D5C-B0FA-18F2DF2F447B}|Actividad3LengProg3\\Actividad3LengProg3.csproj|solutionrelative:actividad3lengprog3\\views\\estudiantes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yiandra\\source\\repos\\Actividad3LengProg3\\Actividad3LengProg3\\Views\\Estudiantes\\Editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82FA688F-8565-4D5C-B0FA-18F2DF2F447B}|Actividad3LengProg3\\Actividad3LengProg3.csproj|c:\\users\\yiandra\\source\\repos\\actividad3lengprog3\\actividad3lengprog3\\views\\estudiantes\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{82FA688F-8565-4D5C-B0FA-18F2DF2F447B}|Actividad3LengProg3\\Actividad3LengProg3.csproj|solutionrelative:actividad3lengprog3\\views\\estudiantes\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yiandra\\source\\repos\\Actividad3LengProg3\\Actividad3LengProg3\\Views\\Estudiantes\\Lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82FA688F-8565-4D5C-B0FA-18F2DF2F447B}|Actividad3LengProg3\\Actividad3LengProg3.csproj|c:\\users\\yiandra\\source\\repos\\actividad3lengprog3\\actividad3lengprog3\\views\\estudiantes\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{82FA688F-8565-4D5C-B0FA-18F2DF2F447B}|Actividad3LengProg3\\Actividad3LengProg3.csproj|solutionrelative:actividad3lengprog3\\views\\estudiantes\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yiandra\\source\\repos\\Actividad3LengProg3\\Actividad3LengProg3\\Models\\EstudianteViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82FA688F-8565-4D5C-B0FA-18F2DF2F447B}|Actividad3LengProg3\\Actividad3LengProg3.csproj|c:\\users\\yiandra\\source\\repos\\actividad3lengprog3\\actividad3lengprog3\\views\\estudiantes\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{82FA688F-8565-4D5C-B0FA-18F2DF2F447B}|Actividad3LengProg3\\Actividad3LengProg3.csproj|solutionrelative:actividad3lengprog3\\views\\estudiantes\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yiandra\\source\\repos\\Actividad3LengProg3\\Actividad3LengProg3\\Views\\Estudiantes\\Detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,29 +28,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Detalle.cshtml",
               "DocumentMoniker": "C:\\Users\\Yiandra\\source\\repos\\Actividad3LengProg3\\Actividad3LengProg3\\Views\\Estudiantes\\Detalle.cshtml",
-              "RelativeDocumentMoniker": "Actividad3LengProg3\\Views\\Estudiantes\\Detalle.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\Actividad3LengProg3\\Actividad3LengProg3\\Views\\Estudiantes\\Detalle.cshtml",
               "ToolTip": "C:\\Users\\Yiandra\\source\\repos\\Actividad3LengProg3\\Actividad3LengProg3\\Views\\Estudiantes\\Detalle.cshtml",
-              "RelativeToolTip": "Actividad3LengProg3\\Views\\Estudiantes\\Detalle.cshtml",
+              "RelativeToolTip": "..\\..\\source\\repos\\Actividad3LengProg3\\Actividad3LengProg3\\Views\\Estudiantes\\Detalle.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-10T23:48:41.264Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T23:48:41.264Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Lista.cshtml",
               "DocumentMoniker": "C:\\Users\\Yiandra\\source\\repos\\Actividad3LengProg3\\Actividad3LengProg3\\Views\\Estudiantes\\Lista.cshtml",
-              "RelativeDocumentMoniker": "Actividad3LengProg3\\Views\\Estudiantes\\Lista.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\Actividad3LengProg3\\Actividad3LengProg3\\Views\\Estudiantes\\Lista.cshtml",
               "ToolTip": "C:\\Users\\Yiandra\\source\\repos\\Actividad3LengProg3\\Actividad3LengProg3\\Views\\Estudiantes\\Lista.cshtml",
-              "RelativeToolTip": "Actividad3LengProg3\\Views\\Estudiantes\\Lista.cshtml",
+              "RelativeToolTip": "..\\..\\source\\repos\\Actividad3LengProg3\\Actividad3LengProg3\\Views\\Estudiantes\\Lista.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-10T04:04:55.515Z",
@@ -64,12 +57,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Editar.cshtml",
               "DocumentMoniker": "C:\\Users\\Yiandra\\source\\repos\\Actividad3LengProg3\\Actividad3LengProg3\\Views\\Estudiantes\\Editar.cshtml",
-              "RelativeDocumentMoniker": "Actividad3LengProg3\\Views\\Estudiantes\\Editar.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\Actividad3LengProg3\\Actividad3LengProg3\\Views\\Estudiantes\\Editar.cshtml",
               "ToolTip": "C:\\Users\\Yiandra\\source\\repos\\Actividad3LengProg3\\Actividad3LengProg3\\Views\\Estudiantes\\Editar.cshtml",
-              "RelativeToolTip": "Actividad3LengProg3\\Views\\Estudiantes\\Editar.cshtml",
+              "RelativeToolTip": "..\\..\\source\\repos\\Actividad3LengProg3\\Actividad3LengProg3\\Views\\Estudiantes\\Editar.cshtml",
               "ViewState": "AgIAAEIAAAAAAAAAAAAAADgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-10T00:59:36.101Z",
@@ -77,12 +70,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Yiandra\\source\\repos\\Actividad3LengProg3\\Actividad3LengProg3\\Views\\Estudiantes\\Index.cshtml",
-              "RelativeDocumentMoniker": "Actividad3LengProg3\\Views\\Estudiantes\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\Actividad3LengProg3\\Actividad3LengProg3\\Views\\Estudiantes\\Index.cshtml",
               "ToolTip": "C:\\Users\\Yiandra\\source\\repos\\Actividad3LengProg3\\Actividad3LengProg3\\Views\\Estudiantes\\Index.cshtml",
-              "RelativeToolTip": "Actividad3LengProg3\\Views\\Estudiantes\\Index.cshtml",
+              "RelativeToolTip": "..\\..\\source\\repos\\Actividad3LengProg3\\Actividad3LengProg3\\Views\\Estudiantes\\Index.cshtml",
               "ViewState": "AgIAAEIAAAAAAAAAAAAAAE8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-10T00:42:09.683Z",
@@ -90,12 +83,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "EstudiantesController.cs",
               "DocumentMoniker": "C:\\Users\\Yiandra\\source\\repos\\Actividad3LengProg3\\Actividad3LengProg3\\Controllers\\EstudiantesController.cs",
-              "RelativeDocumentMoniker": "Actividad3LengProg3\\Controllers\\EstudiantesController.cs",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\Actividad3LengProg3\\Actividad3LengProg3\\Controllers\\EstudiantesController.cs",
               "ToolTip": "C:\\Users\\Yiandra\\source\\repos\\Actividad3LengProg3\\Actividad3LengProg3\\Controllers\\EstudiantesController.cs",
-              "RelativeToolTip": "Actividad3LengProg3\\Controllers\\EstudiantesController.cs",
+              "RelativeToolTip": "..\\..\\source\\repos\\Actividad3LengProg3\\Actividad3LengProg3\\Controllers\\EstudiantesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T00:21:42.923Z",
@@ -103,13 +96,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "EstudianteViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Yiandra\\source\\repos\\Actividad3LengProg3\\Actividad3LengProg3\\Models\\EstudianteViewModel.cs",
-              "RelativeDocumentMoniker": "Actividad3LengProg3\\Models\\EstudianteViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\Actividad3LengProg3\\Actividad3LengProg3\\Models\\EstudianteViewModel.cs",
               "ToolTip": "C:\\Users\\Yiandra\\source\\repos\\Actividad3LengProg3\\Actividad3LengProg3\\Models\\EstudianteViewModel.cs",
-              "RelativeToolTip": "Actividad3LengProg3\\Models\\EstudianteViewModel.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAwC4AAAAFAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\source\\repos\\Actividad3LengProg3\\Actividad3LengProg3\\Models\\EstudianteViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T00:12:21.06Z",
               "EditorCaption": ""
